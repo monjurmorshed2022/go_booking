@@ -3,6 +3,6 @@
 This is the repository for Booking and Reservation Project.
 
 - Build in Go Version 1.17
-- Uses the chi router
-- Uses Alex Edwards SCS session manager
-- Uses nosurf 
+- Uses the [chi router](https://github.com/go-chi/chi)
+- Uses [Alex Edwards SCS](https://github.com/alexedwards/scs/v2) session manager
+- Uses [nosurf](https://github.com/justinas/nosurf) 
